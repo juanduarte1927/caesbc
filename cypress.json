@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://practicetestautomation.com/",
+    "retries": {
+        "runMode": 1,
+        "openMode": 1
+    },
+    "projectId": "pp31yy"
+}

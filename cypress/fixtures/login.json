@@ -1,0 +1,8 @@
+{
+  "usuarioValido": "student",
+  "usuarioInvalido": "incorrectUser",
+  "contraseñaValida": "Password123",
+  "contraseñaInvalida": "CualquierOtroPassword",
+  "mensajeUsuarioInvalido": "Your username is invalid!",
+  "mensajeContraseñaInvalido": "Your password is invalid!"
+}
